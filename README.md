@@ -1,4 +1,6 @@
-# Implementation-of-Erosion-and-Dilation
+# EXP-9: Implementation-of-Erosion-and-Dilation
+# NAME: SARAVANAN SHAM PRAKASH
+# REG NO: 212224230254
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
